@@ -1,1 +1,1 @@
-# IAS_Project1
+# IAS_Project1 Color Segmentation and Object Recognition
